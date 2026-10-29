@@ -1,6 +1,6 @@
-# 👋 Hi, I'm loyds44
+# Hi, I'm loyds44
 
-## 📌 About Me
+## About Me
 - French Computer Science Student
 
 ## 📊 My GitHub Stats
